@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Syntaxer.swift
 //  simplecompiler
 //
 //  Created by Levity on 11/21/15.
@@ -7,5 +7,3 @@
 //
 
 import Foundation
-
-print("Hello, World!")
